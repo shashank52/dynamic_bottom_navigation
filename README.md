@@ -1,16 +1,12 @@
-# dynamic_bottom_navigation
+# Dynamic Bottom Navigation
 
-A new Flutter project.
+A project to demonstrate how to achieve a dynamic bottom navigation bar in Flutter using BLoC.
 
-## Getting Started
+## Home Screen
+![Home Screen](https://github.com/shashank52/dynamic_bottom_navigation/assets/28962601/a767931d-c7d7-4651-9b8c-3a77b0759031)
 
-This project is a starting point for a Flutter application.
+## Screen with 4 navigation bar items
+![Screen 1](https://github.com/shashank52/dynamic_bottom_navigation/assets/28962601/88473739-bc6e-43b6-bf5b-a6fd1f42c862)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screen with 5 navigation bar items
+![Screen 2](https://github.com/shashank52/dynamic_bottom_navigation/assets/28962601/abd7b0d7-df3c-4072-9775-06ffb6628c3e)
