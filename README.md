@@ -3,7 +3,7 @@
 A project to demonstrate how to achieve a dynamic bottom navigation bar in Flutter using BLoC.
 
 ## Home Screen
-![Home Screen](https://github.com/shashank52/dynamic_bottom_navigation/assets/28962601/a767931d-c7d7-4651-9b8c-3a77b0759031)
+![Home Screen](https://github.com/shashank52/dynamic_bottom_navigation/assets/28962601/52644517-dbae-4542-a167-cbc4c669e7a4)
 
 ## Screen with 4 navigation bar items
 ![Screen 1](https://github.com/shashank52/dynamic_bottom_navigation/assets/28962601/88473739-bc6e-43b6-bf5b-a6fd1f42c862)
