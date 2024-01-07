@@ -5,8 +5,11 @@ class MenuView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(
-      child: Text('Menu'),
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Menu'),
+      ),
+      body: const Center(child: Text('Menu Screen')),
     );
   }
 }

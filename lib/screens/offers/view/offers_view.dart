@@ -5,8 +5,11 @@ class OffersView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Center(
-      child: Text('Offers'),
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Offers'),
+      ),
+      body: const Center(child: Text('Offers Screen')),
     );
   }
 }
